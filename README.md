@@ -2,7 +2,7 @@
 
 <h3>✅ Game point: </h3>
 <ul>
-  <li> Gameplay against world's best player </li>
+  <li> Play against world's best player </li>
   <li> Get the biggest score </li>
   <li> Have fun </li>
 </ul>
