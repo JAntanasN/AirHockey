@@ -9,7 +9,7 @@
 
 <h3>✅ How to play: </h3>
 <ul>
-  <li> <strong>Mouse</strong> Move mouse and your ball will move too</li>
+  <li>Move mouse and your ball will move too</li>
 </ul>
 
 <h3>✅ Unity playable game link</h3>
